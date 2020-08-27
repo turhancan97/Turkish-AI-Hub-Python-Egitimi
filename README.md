@@ -1,0 +1,1 @@
+# Turkish-AI-Hub-Python-Egitimi
